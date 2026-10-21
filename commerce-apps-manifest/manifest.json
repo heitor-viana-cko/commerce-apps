@@ -96,7 +96,7 @@
             "provider": "thirdParty",
             "version": "26.5.0",
             "zip": "checkoutcom-v26.5.0.zip",
-            "sha256": "73f7abf9af3dadf2795489f179350e6c2d91dac680bc3259e97f0726f9218da3"
+            "sha256": "9da5bad2ae860df728fd0ad06bdd7232c019f5899c2cd0f38df6095e7cfed652"
         }
     ],
     "fraud": [],
