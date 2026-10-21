@@ -85,6 +85,18 @@
             "connectionDetailsComponents": [
                 "ccbm_payments/merchantAccountDetails"
             ]
+        },
+        {
+            "id": "checkoutcom",
+            "name": "Checkout.com",
+            "description": "Accept cards, wallets and local payment methods in Storefront Next with Checkout.com Flow. Includes 3D Secure, risk assessment, capture, void and refund from Business Manager, and signed webhooks.",
+            "iconName": "checkoutcom.svg",
+            "domain": "payment",
+            "type": "app",
+            "provider": "thirdParty",
+            "version": "26.5.0",
+            "zip": "checkoutcom-v26.5.0.zip",
+            "sha256": "99d4e3fc1d8affad3a5f329760bbfce45d5b9f0bbdea9820eed19b7b2b704dd0"
         }
     ],
     "fraud": [],
